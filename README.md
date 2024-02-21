@@ -33,3 +33,6 @@ We generated answers to specific questions based on an article by Andrew Ng on b
 
 **Note:** The files utils.py and test.ann are required for compilation.
 
+## API Key
+
+To generate your API Key, you can register [here](https://dashboard.cohere.ai/welcome/register?utm_source=partner&utm_medium=website&utm_campaign=DeeplearningAI).
